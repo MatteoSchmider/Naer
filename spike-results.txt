@@ -1,0 +1,122 @@
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Setting synapse count: 100000000
+Calculated total neuron count: 44721
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  22360 Input Neuron(s)
+  22360 Neuron(s)
+  99971560 Synapse(s)
+
+Running model for 10.000000 seconds 
+Took: 39.611
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Setting synapse count: 200000000
+Calculated total neuron count: 63245
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  31622 Input Neuron(s)
+  31622 Neuron(s)
+  199945906 Synapse(s)
+
+Running model for 10.000000 seconds 
+Took: 87.2535
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Setting synapse count: 300000000
+Calculated total neuron count: 77459
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  38729 Input Neuron(s)
+  38728 Neuron(s)
+  299909632 Synapse(s)
+
+./benchmark.sh: line 28: 25421 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --synapses $i
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Setting synapse count: 400000000
+Calculated total neuron count: 89442
+./benchmark.sh: line 28: 25686 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --synapses $i
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Setting synapse count: 500000000
+Calculated total neuron count: 100000
+./benchmark.sh: line 28: 25804 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --synapses $i
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Running with plasticity ON
+Setting synapse count: 100000000
+Calculated total neuron count: 44721
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  22360 Input Neuron(s)
+  22360 Neuron(s)
+  99971560 Synapse(s)
+  1 Plasticity Rule(s)
+
+Running model for 10.000000 seconds 
+Took: 210.946
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Running with plasticity ON
+Setting synapse count: 200000000
+Calculated total neuron count: 63245
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  31622 Input Neuron(s)
+  31622 Neuron(s)
+  199945906 Synapse(s)
+  1 Plasticity Rule(s)
+
+Running model for 10.000000 seconds 
+Took: 463.722
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Running with plasticity ON
+Setting synapse count: 300000000
+Calculated total neuron count: 77459
+
+-----------
+---SPIKE---
+-----------
+
+Building Model with:
+  38729 Input Neuron(s)
+  38728 Neuron(s)
+  299909632 Synapse(s)
+  1 Plasticity Rule(s)
+
+./benchmark.sh: line 34: 27286 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --plastic --synapses $i
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Running with plasticity ON
+Setting synapse count: 400000000
+Calculated total neuron count: 89442
+./benchmark.sh: line 34: 27419 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --plastic --synapses $i
+Running with a simulation time of: 10.0s
+Running in fast mode (no spike collection)
+Running with plasticity ON
+Setting synapse count: 500000000
+Calculated total neuron count: 100000
+./benchmark.sh: line 34: 27514 Killed                  ./Spike/Build/Examples/Brunel10K --simtime 10.0 --fast --plastic --synapses $i

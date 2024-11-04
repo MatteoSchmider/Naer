@@ -1,0 +1,167 @@
+/*
+Spice's brunel benchmark uses static weights declared in the neuron model.
+It is thus not comparable to naer's philosophy as weights are not loaded from memory, limiting usage in practical applications.
+In this bench run, the brunel+ code was modified to disable plasticity but keep the synapse weight.
+Thus the brunel+ times in this file are comparable to naer's inference/Brunel performance.
+*/
+
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 100000000,
+        "#gpus": 1,
+        "setuptime": 0.424576,
+        "simtime": 0.205065
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 200000000,
+        "#gpus": 1,
+        "setuptime": 0.078751,
+        "simtime": 0.246473
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 300000000,
+        "#gpus": 1,
+        "setuptime": 0.0799,
+        "simtime": 0.292919
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 400000000,
+        "#gpus": 1,
+        "setuptime": 0.081275,
+        "simtime": 0.335014
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 500000000,
+        "#gpus": 1,
+        "setuptime": 0.082456,
+        "simtime": 0.370329
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 600000000,
+        "#gpus": 1,
+        "setuptime": 0.082672,
+        "simtime": 0.4025
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 700000000,
+        "#gpus": 1,
+        "setuptime": 0.086006,
+        "simtime": 0.432391
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 800000000,
+        "#gpus": 1,
+        "setuptime": 0.086079,
+        "simtime": 0.463478
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 900000000,
+        "#gpus": 1,
+        "setuptime": 0.084423,
+        "simtime": 0.488628
+}
+{
+        "sim": "Spice",
+        "model": "brunel",
+        "#syn": 1000000000,
+        "#gpus": 1,
+        "setuptime": 0.088559,
+        "simtime": 0.51422
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 100000000,
+        "#gpus": 1,
+        "setuptime": 0.082512,
+        "simtime": 0.591548
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 200000000,
+        "#gpus": 1,
+        "setuptime": 0.080996,
+        "simtime": 0.698375
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 300000000,
+        "#gpus": 1,
+        "setuptime": 0.091895,
+        "simtime": 0.823118
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 400000000,
+        "#gpus": 1,
+        "setuptime": 0.088329,
+        "simtime": 0.908225
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 500000000,
+        "#gpus": 1,
+        "setuptime": 0.088247,
+        "simtime": 1.01486
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 600000000,
+        "#gpus": 1,
+        "setuptime": 0.093276,
+        "simtime": 1.10104
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 700000000,
+        "#gpus": 1,
+        "setuptime": 0.105556,
+        "simtime": 1.20106
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 800000000,
+        "#gpus": 1,
+        "setuptime": 0.114792,
+        "simtime": 1.28911
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 900000000,
+        "#gpus": 1,
+        "setuptime": 0.122672,
+        "simtime": 1.38504
+}
+{
+        "sim": "Spice",
+        "model": "brunel+",
+        "#syn": 1000000000,
+        "#gpus": 1,
+        "setuptime": 0.140198,
+        "simtime": 1.45625
+}

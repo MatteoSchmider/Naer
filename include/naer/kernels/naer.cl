@@ -1,0 +1,5 @@
+#include "network.cl"
+#include "stdp.cl"
+#include "nop.cl"
+#include "poisson.cl"
+#include "spike_aggregation.cl"

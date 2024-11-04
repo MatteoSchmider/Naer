@@ -1,0 +1,140 @@
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 100000000,
+        "#gpus": 1,
+        "simtime": 0.492512
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 200000000,
+        "#gpus": 1,
+        "simtime": 0.55458
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 300000000,
+        "#gpus": 1,
+        "simtime": 0.605044
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 400000000,
+        "#gpus": 1,
+        "simtime": 0.652955
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 500000000,
+        "#gpus": 1,
+        "simtime": 0.694129
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 600000000,
+        "#gpus": 1,
+        "simtime": 0.733832
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 700000000,
+        "#gpus": 1,
+        "simtime": 0.769509
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 800000000,
+        "#gpus": 1,
+        "simtime": 0.80426
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 900000000,
+        "#gpus": 1,
+        "simtime": 0.836013
+}
+{
+        "sim": "samples",
+        "model": "brunel",
+        "#syn": 1000000000,
+        "#gpus": 1,
+        "simtime": 0.869376
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 100000000,
+        "#gpus": 1,
+        "simtime": 1.28052
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 200000000,
+        "#gpus": 1,
+        "simtime": 1.82665
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 300000000,
+        "#gpus": 1,
+        "simtime": 2.37329
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 400000000,
+        "#gpus": 1,
+        "simtime": 2.90387
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 500000000,
+        "#gpus": 1,
+        "simtime": 3.44125
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 600000000,
+        "#gpus": 1,
+        "simtime": 3.95658
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 700000000,
+        "#gpus": 1,
+        "simtime": 4.46013
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 800000000,
+        "#gpus": 1,
+        "simtime": 5.00531
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 900000000,
+        "#gpus": 1,
+        "simtime": 5.44616
+}
+{
+        "sim": "samples",
+        "model": "brunel+",
+        "#syn": 1000000000,
+        "#gpus": 1,
+        "simtime": -1
+}

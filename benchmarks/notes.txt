@@ -1,0 +1,1 @@
+source /usr/local/bin/nestgpu_vars.sh

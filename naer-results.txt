@@ -1,0 +1,170 @@
+Setting synapse count: 1e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (44720, 100040045)
+Took: 0.30673
+Setting synapse count: 2e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (63244, 200040831)
+Took: 0.416916
+Setting synapse count: 3e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (77457, 300020095)
+Took: 0.517426
+Setting synapse count: 4e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (89441, 400032953)
+Took: 0.601728
+Setting synapse count: 5e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (100000, 500050308)
+Took: 0.646885
+Setting synapse count: 6e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (109543, 600039257)
+Took: 0.709999
+Setting synapse count: 7e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (118320, 700032811)
+Took: 0.774357
+Setting synapse count: 8e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (126490, 800034287)
+Took: 0.824909
+Setting synapse count: 9e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (134163, 900021535)
+Took: 0.870375
+Setting synapse count: 1e+09
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (141420, 1000031144)
+Took: 0.894579
+Setting plastic mode!
+Setting synapse count: 1e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (44720, 100040045)
+Took: 0.492194
+Setting plastic mode!
+Setting synapse count: 2e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (63244, 200040831)
+Took: 0.66275
+Setting plastic mode!
+Setting synapse count: 3e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (77457, 300020095)
+Took: 0.793136
+Setting plastic mode!
+Setting synapse count: 4e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (89441, 400032953)
+Took: 0.972111
+Setting plastic mode!
+Setting synapse count: 5e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (100000, 500050308)
+Took: 1.03436
+Setting plastic mode!
+Setting synapse count: 6e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (109543, 600039257)
+Took: 1.11684
+Setting plastic mode!
+Setting synapse count: 7e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (118320, 700032811)
+Took: 1.1976
+Setting plastic mode!
+Setting synapse count: 8e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (126490, 800034287)
+Took: 1.26895
+Setting plastic mode!
+Setting synapse count: 9e+08
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (134163, 900021535)
+Took: 1.33104
+Setting plastic mode!
+Setting synapse count: 1e+09
+built the kernels!
+allocated the groups!
+allocated the spikes!
+allocated the connections!
+prepared the kernels!
+(N, S): (141420, 1000031144)
+Took: 1.37143
